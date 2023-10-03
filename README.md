@@ -1,1 +1,3 @@
-# Task2
+NAME - Somya Panwar
+CAMPUS - BHOPAL 
+REG. NO. - 21BCE10779
